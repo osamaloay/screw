@@ -1,0 +1,12 @@
+# ninja log v6
+34842	36593	1734507705101674936	GameProject	3586951751d17c1d
+738	843	7540909463682484	GameProject.exe	27e9ab5d545b86ef
+60	3102	7565573249152043	CMakeFiles/GameProject.dir/PenaltyCard.cpp.obj	52ccf3aea3d5cf2a
+39	3118	7565573248946847	CMakeFiles/GameProject.dir/Card.cpp.obj	992f93f619d89407
+49	3152	7565573249041689	CMakeFiles/GameProject.dir/StandardCard.cpp.obj	90f29acc02bf63dc
+70	3200	7565573249249441	CMakeFiles/GameProject.dir/BonusCard.cpp.obj	410d26410c783e2d
+21	5009	7565573248755348	CMakeFiles/GameProject.dir/main.cpp.obj	e21e9f7e121d9323
+3107	5253	7565573279620149	CMakeFiles/GameProject.dir/Player.cpp.obj	b28318a1d0531840
+79	5798	7565573249346858	CMakeFiles/GameProject.dir/Deck.cpp.obj	90a32f2e6e24f2c6
+3118	6455	7565573279740175	CMakeFiles/GameProject.dir/Game.cpp.obj	10dcd8ba3b6a523
+6455	6896	7565573313094174	GameProject.exe	c55b7978ea33502b
